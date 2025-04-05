@@ -23,6 +23,7 @@ export default function Footer() {
   return (
     <FooterContainer>
       <p>&copy; 2025 Chanho Park. All rights reserved.</p>
+      <FooterLink href="/about">About Us</FooterLink>
     </FooterContainer>
   );
 }
